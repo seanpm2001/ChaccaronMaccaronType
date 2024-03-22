@@ -1,0 +1,1 @@
+🤪️🎹️⌨️💾️ ChaccaronType / MaccaronType is a joke program where input that is detected to be nonsensical keyboard spamming is scanned for, and audio clips can be triggered to play as it happens (the default example being Chaccaron Maccaron by El Chombo) go ahead, type like an idiot
